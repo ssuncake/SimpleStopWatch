@@ -1,3 +1,11 @@
 <resources>
     <string name="app_name">SimpleStopWatch</string>
+    <string name="start">시작</string>
+    <string name="record">기록</string>
+    <string name="stop">정지</string>
+    <string name="pause">일시정지</string>
+    <string name="nul" translatable="false">Null</string>
+    <string name="default_time" translatable="false">00:00:00</string>
+    <string name="con">계속</string>
+    <string name="time_set" translatable="false">%02d:%02d:%02d</string>
 </resources>
